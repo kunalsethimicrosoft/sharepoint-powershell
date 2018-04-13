@@ -1,1 +1,1 @@
-# sharepoint-powershell
+This SharePoint PowerShell Script generated detailed user permission for the specified Web Application. This is useful when we need to find user permissions and remove the ones which are not required anymore. Very helpful script for permissions clean-up for old sites.
